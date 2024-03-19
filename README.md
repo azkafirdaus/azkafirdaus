@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=a-firdaus)
+
 <h1 align="center">Hi 👋, I'm Azka Firdaus</h1>
 
 - 🔭 I’m currently working on **computational material design for solid-state battery electrolyte** 🔋
@@ -6,3 +8,4 @@
   > ### Nature is awesome; everything, from the macro- 🪐 to the micro-level ⚛️
 
 - 🐜 I’m looking to collaborate on **any technical or non-technical projects to make the world more sustainable and humane** 🌻
+
