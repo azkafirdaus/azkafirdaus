@@ -7,4 +7,4 @@
 
 - 🐜 I’m looking to collaborate on **any technical or non-technical projects to make the world more sustainable and humane** 🌻
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-firdaus&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-firdaus&layout=compact&count-private=true)
